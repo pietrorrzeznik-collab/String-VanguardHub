@@ -1,3 +1,2 @@
-loadstring(g:HttpGet('https://raw.githubusercontent.com/pietrorrzeznik-collab/VarguardHub/refs/heads/main/Main.lua'))
-game = g
---[[ Random comment (⁠✿⁠^⁠‿⁠^⁠) --]]
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pietrorrzeznik-collab/VarguardHub/refs/heads/main/Main.lua'))
+--[[ Hi! (⁠✿⁠^⁠‿⁠^⁠) --]]
